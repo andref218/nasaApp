@@ -1,4 +1,4 @@
-# NASA App
+# NASA App - Astronomy Picture of the Day
 
 This project is a React Application that fetches data from the NASA API.  
 The main goal of this app is to demonstrate how to consume an external API and display its data in a modern web interface.
