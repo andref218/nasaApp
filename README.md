@@ -1,6 +1,6 @@
-# NASA App - Astronomy Picture of the Day
+# NASA App - APOD
 
-This project is a React Application that fetches data from the NASA API.  
+This project is a React Application that fetches data from the NASA API, showing the Astronomy Picture of the Day.  
 The main goal of this app is to demonstrate how to consume an external API and display its data in a modern web interface.
 
 ## 🖼️ Screenshots / Demo
