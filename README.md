@@ -13,6 +13,8 @@ The main goal of this app is to demonstrate how to consume an external API and d
 
 ![Detail Screen](./screenshots/nasaApp2.png)
 
+The image and its description changes everyday, showing always a new topic.
+
 ---
 
 ## 🎯 Project Objective
