@@ -1,4 +1,4 @@
-# NASA App 🚀
+# NASA App
 
 This project is a React Application that fetches data from the NASA API.  
 The main goal of this app is to demonstrate how to consume an external API and display its data in a modern web interface.
@@ -7,11 +7,11 @@ The main goal of this app is to demonstrate how to consume an external API and d
 
 ### Home Screen
 
-![Home Screen](./assets/nasaApp1.png)
+![Home Screen](./screenshots/nasaApp1.png)
 
 ### Detail Screen
 
-![Detail Screen](./assets/nasaApp2.png)
+![Detail Screen](./screenshots/nasaApp2.png)
 
 ---
 
