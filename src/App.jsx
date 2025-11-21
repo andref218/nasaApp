@@ -49,7 +49,6 @@ function App() {
           <i className="fa-solid fa-spinner"></i>
         </div>
       )}
-      {/*<Main /> */}
       {showModal && (
         <SideBar data={data} handleToggleModal={handleToggleModal} />
       )}
