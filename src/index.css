@@ -21,7 +21,7 @@
 #root {
   min-height: 100vh;
   display: flex;
-  display: relative; /* changed from display: relative to position: relative */
+  display: relative;
 }
 
 .imgContainer {
